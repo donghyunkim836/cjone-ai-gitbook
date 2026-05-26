@@ -1,6 +1,6 @@
 ---
 icon: claude
-cover: .gitbook/assets/bg_long_text.jpg
+cover: .gitbook/assets/bg_long_text_right.jpg
 coverY: 0
 coverHeight: 353
 ---
