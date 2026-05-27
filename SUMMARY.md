@@ -26,9 +26,7 @@
 
 ## 03 직군별 사례 - Product(기획/디자인)
 
-***
-
-* [Page 2](page-2.md)
+* [Page 2](03-product/page-2.md)
 
 ## 03 직군별 사례 - Business(사업기획/영업)
 
