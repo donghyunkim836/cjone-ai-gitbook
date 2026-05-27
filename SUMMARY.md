@@ -1,6 +1,7 @@
 # Table of contents
 
 * [소개](README.md)
+* [Ground Rule](ground-rule.md)
 
 ## 00. 기초
 
@@ -13,6 +14,22 @@
 * [06. CLAUDE.md](docs/06-claude-md.md)
 * [07. 첫 실전](docs/07-first-practice.md)
 
-## 02 레퍼런스
+## 02 활용
 
-* [00. 퀵 레퍼런스](docs/ref-00.md)
+* [스킬 (Skills)](02/skills.md)
+* [플러그인](02/undefined.md)
+* [MCP](02/mcp.md)
+
+## 03 직군별 사례 - Engineer
+
+* [00. 퀵 레퍼런스](03-engineer/ref-00.md)
+
+## 03 직군별 사례 - Product(기획/디자인)
+
+***
+
+* [Page 2](page-2.md)
+
+## 03 직군별 사례 - Business(사업기획/영업)
+
+* [Page 1](03-business/page-1.md)
