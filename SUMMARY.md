@@ -29,4 +29,4 @@
 
 ## Business(사업기획/영업) 활용 사례🧑‍💼
 
-* [대량 데이터 분석 자동화\_###기능 활용](business/_.md)
+* [실적 분석 및 실시간 뉴스 대시보드 구축](business/undefined.md)
