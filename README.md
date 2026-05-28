@@ -1,11 +1,10 @@
 ---
-icon: claude
 cover: .gitbook/assets/bg_long_text_right.jpg
 coverY: 0
 coverHeight: 353
 ---
 
-# 공간소개
+# 📌공간 소개
 
 Claude를 효과적으로 활용하기 위한 페이지입니다. \
 설치부터 실전 활용까지, 필요한 내용을 찾아 바로 쓸 수 있도록 정리하고있습니다.
