@@ -1,6 +1,6 @@
 # Table of contents
 
-* [소개](README.md)
+* [공간소개](README.md)
 * [Ground Rule](ground-rule.md)
 
 ## Claude 시작하기🤖
