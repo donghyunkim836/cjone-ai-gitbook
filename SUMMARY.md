@@ -5,7 +5,6 @@
 
 ## Claude 시작하기🤖
 
-* [00. 기초](claude/00-basics.md)
 * [💡사용 준비하기](claude/01-install.md)
 * [💡대화 방식 이해하기](claude/02-session.md)
 * [💡응답 모델 설정하기](claude/03-model.md)
