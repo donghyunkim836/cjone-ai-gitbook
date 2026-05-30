@@ -1,45 +1,45 @@
-# 01. 설치
+# ❶ 사용 준비하기
 
-Claude Code는 **Desktop 앱**과 **CLI** 두 가지 방식으로 사용할 수 있습니다.
+Claude Code는 **Desktop 앱**과 **CLI** 두 가지 방식으로 사용할 수 있습니다. \
 목적에 맞게 하나를 선택하거나, 둘 다 설치해도 됩니다.
 
----
+***
 
-## 어떤 걸 선택할까?
+## ⏵ 어떤 걸 선택할까?
 
 ```
-개발이 목적 (코드, Git, 자동화)  →  CLI
-일반 업무 (문서, 보고서, 이메일)  →  Desktop 앱
-둘 다                             →  둘 다 설치
-설치 없이 먼저 체험               →  claude.ai/code (웹)
+개발이 목적 (코드, Git, 자동화)   →  CLI
+일반 업무 (문서, 보고서, 이메일)   →  Desktop 앱
+둘 다                        →  둘 다 설치
+설치 없이 먼저 체험             →  claude.ai/code (웹)
 ```
 
----
+***
 
-## 사전 요건
+## ⏵ 사전 요건
 
-| 항목 | 내용 |
-|------|------|
-| **Anthropic 계정** | [claude.ai](https://claude.ai) 가입 필요 |
-| **유료 구독** | Pro, Max, Teams, Enterprise 중 하나 |
-| **OS (Desktop 앱)** | macOS 13.0+, Windows 10 1809+ |
-| **OS (CLI)** | macOS 13.0+, Windows 10 1809+ |
-| **RAM** | 4GB 이상 |
-| **프로세서** | x64 또는 ARM64 |
+| 항목                 | 내용                                   |
+| ------------------ | ------------------------------------ |
+| **Anthropic 계정**   | [claude.ai](https://claude.ai) 가입 필요 |
+| **유료 구독**          | Pro, Max, Teams, Enterprise 중 하나     |
+| **OS (Desktop 앱)** | macOS 13.0+, Windows 10 1809+        |
+| **OS (CLI)**       | macOS 13.0+, Windows 10 1809+        |
+| **RAM**            | 4GB 이상                               |
+| **프로세서**           | x64 또는 ARM64                         |
 
----
+***
 
-## Desktop 앱
+## ⏵ Desktop 앱
 
 ### Desktop 앱이란?
 
 터미널 없이 GUI로 Claude를 사용하는 방법입니다. 앱 안에 **Chat / Cowork / Code** 3개 탭이 있고, Code 탭에서 로컬 파일을 직접 읽고 수정할 수 있습니다.
 
-| 탭 | 용도 | 로컬 파일 |
-|----|------|-----------|
-| **Chat** | 일반 대화, 문서 초안, 브레인스토밍 | 없음 (첨부만 가능) |
-| **Cowork** | 긴 작업을 맡기면 클라우드에서 자율 실행 | 없음 (클라우드 VM) |
-| **Code** | 내 폴더 파일을 직접 읽고 수정, 변경 승인 | 직접 접근 |
+| 탭          | 용도                       | 로컬 파일        |
+| ---------- | ------------------------ | ------------ |
+| **Chat**   | 일반 대화, 문서 초안, 브레인스토밍     | 없음 (첨부만 가능)  |
+| **Cowork** | 긴 작업을 맡기면 클라우드에서 자율 실행   | 없음 (클라우드 VM) |
+| **Code**   | 내 폴더 파일을 직접 읽고 수정, 변경 승인 | 직접 접근        |
 
 ### macOS 설치
 
@@ -73,9 +73,9 @@ Chat 탭을 선택하고 아무 말이나 입력해보세요.
 안녕
 ```
 
----
+***
 
-## CLI
+## ⏵ CLI
 
 ### CLI란?
 
@@ -83,10 +83,10 @@ Chat 탭을 선택하고 아무 말이나 입력해보세요.
 
 ### 사전 요건 (CLI 전용)
 
-| 항목 | 내용 |
-|------|------|
-| **Node.js** | v18 이상 필요 ([nodejs.org](https://nodejs.org) 에서 설치) |
-| **Git for Windows** | Windows에서 Git 기능 사용 시 필요. 없으면 PowerShell로 대체됨 |
+| 항목                  | 내용                                                 |
+| ------------------- | -------------------------------------------------- |
+| **Node.js**         | v18 이상 필요 ([nodejs.org](https://nodejs.org) 에서 설치) |
+| **Git for Windows** | Windows에서 Git 기능 사용 시 필요. 없으면 PowerShell로 대체됨      |
 
 ### macOS 설치
 
@@ -160,13 +160,13 @@ claude
 
 종료하려면 `/exit` 입력 또는 `Ctrl+C` 두 번.
 
----
+***
 
-## 기타 환경
+## ⏵ 기타 환경
 
-| 환경 | 설치 방법 |
-|------|-----------|
-| **VS Code** | 확장 프로그램에서 `Claude Code` 검색 후 설치 |
-| **JetBrains** | JetBrains Marketplace에서 `Claude Code` 검색 후 설치 |
-| **웹** | [claude.ai/code](https://claude.ai/code) 접속 (설치 불필요) |
-| **모바일** | App Store(iOS) 또는 Google Play(Android)에서 `Claude` 검색 |
+| 환경            | 설치 방법                                                |
+| ------------- | ---------------------------------------------------- |
+| **VS Code**   | 확장 프로그램에서 `Claude Code` 검색 후 설치                      |
+| **JetBrains** | JetBrains Marketplace에서 `Claude Code` 검색 후 설치        |
+| **웹**         | [claude.ai/code](https://claude.ai/code) 접속 (설치 불필요) |
+| **모바일**       | App Store(iOS) 또는 Google Play(Android)에서 `Claude` 검색 |
