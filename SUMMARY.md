@@ -1,17 +1,17 @@
 # Table of contents
 
-* [📌 공간 소개](README.md)
+* [👀 공간 소개](README.md)
 * [📌 Ground Rule](ground-rule.md)
 
 ## 🤖 Claude 시작하기
 
-* [❶ 사용 준비하기](claude/01-install.md)
-* [❷ 대화 방식 이해하기](claude/02-session.md)
-* [❸ 응답 모델 설정하기](claude/03-model.md)
-* [❹ 실행 권한 설정하기](claude/04-autonomy.md)
-* [❺ 대화 맥락 관리하기](claude/05-context.md)
-* [❻ 기존 규칙 유지하기](claude/06-claude-md.md)
-* [❼바로 써보기](claude/07-first-practice.md)
+* [1. 사용 준비하기](claude/01-install.md)
+* [2. 대화 방식 이해하기](claude/02-session.md)
+* [3. 응답 모델 설정하기](claude/03-model.md)
+* [4. 실행 권한 설정하기](claude/04-autonomy.md)
+* [5. 대화 맥락 관리하기](claude/05-context.md)
+* [6. 기존 규칙 유지하기](claude/06-claude-md.md)
+* [7. 바로 써보기](claude/07-first-practice.md)
 
 ## 💡 Claude 활용하기
 
